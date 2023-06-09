@@ -1,6 +1,6 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
-class NowAPI < Formula
+class Nowapi < Formula
   desc "When you need an API Now."
   homepage "https://github.com/robvanderleek/nowapi"
   url "https://github.com/robvanderleek/nowapi/releases/download/v1.1.0/nowapi-macos.tar.gz"
